@@ -14,6 +14,7 @@
 
 ![](../img/secret.png)
 
+
 Перейдите в режим `dashboard` и нажмите кнопку `Add task` - добавить заявку
 
 ![](../img/mandrill_dashboard.png)
