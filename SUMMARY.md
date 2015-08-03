@@ -38,4 +38,5 @@
        * [Проверка статуса платежа на карту Приватбанка](privatbank/proverka_statusa_platezha_otralennogo_na_kartu_privatbanka.md)
        * [Создание платежа по Украине](privatbank/sozdanie_platezha_po_ukraine.md)
        * [Проверка статуса платежа по Украине](privatbank/proverka_statusa_platezha_po_ukraine.md)
-
+       * [Платёж на карту visa любого банка](privatbank/sozdanie_platezha_na_kartu_visa.md)
+       * [Проверка статуса платежа на карту visa любого банка](privatbank/proverka_statusa_platezha_otralennogo_na_kartu_visa.md)
